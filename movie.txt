@@ -1,695 +1,111 @@
-**THE SINGLE SOLDIER ATTEMPT - SCREENPLAY (REVISED)**
+**THE SIEGE OF HARLECH - REVISED CHAPTER OUTLINE (CORRECTIONS)**
+
+**OPENING TITLES**
+
+Text on screen: "England, 1468. Based on true events."
+
+**ACT ONE: THE IMPOSSIBLE PROBLEM**
+
+1. **The Seven-Year Stalemate** - Opening montage shows the siege logistics: supply lines stretching back through hostile Welsh territory, the cost of maintaining 5,000 men for years, failed assault attempts. Cut to inside Harlech: fifty defenders living surprisingly well—stores of food, comfortable quarters, laughter and song. They've outlasted every commander sent against them. Text explains why: perched on 200-foot cliffs, one narrow stairway approach from the sea, resupplied by boat. The geography makes it nearly impregnable. Previous commanders have died trying. The current besiegers are exhausted, going through motions of a siege everyone knows is hopeless.
+
+2. **Herbert's Arrival** - A wealthy 55-year-old lord arrives with the King's commission and an enormous personal fortune. Distinguished-looking, methodical, serious. While officers brief him on why every conventional approach has failed, Herbert studies the terrain with intense focus, asking strange precise questions about angles, trajectories, how high and how far things can be launched from different positions. His analytical approach—treating warfare like an engineering problem—unsettles the veteran officers who've learned to accept this as an unwinnable siege.
+
+3. **The Impossible Choice** - Herbert selects a soldier at random from the Welsh levies. Not for any special skill—just picked. He gives a direct order: attempt to take the castle by any means necessary. The soldier tries to refuse—it's suicide. Herbert clarifies: this is an order, not a request. Refuse and face execution for insubordination in wartime. Attempt it and your family receives gold regardless of outcome. The soldier understands he has no choice. Officers gather to discuss possible approaches with the soldier: swim to the water gate? The current is deadly. Climb the sheer cliff face? Impossible without equipment. Scale the walls? They're 40 feet high with defenders watching. The sea stairs carved into the cliff? Still suicide but maybe fractionally less impossible than the alternatives. The soldier is overwhelmed—there IS no good approach. Everything leads to death. Finally, he chooses the cliff stairs simply because he has to choose something. Officers watch, disturbed that Herbert is ordering certain death just to observe what happens.
+
+4. **The Crawl Back** - The soldier climbs the narrow stairs carved into the cliff face. Defenders wound him—shoulder, then thigh—but don't kill him, perhaps showing mercy or conserving arrows. He crawls back down over two agonizing hours while Herbert watches through a spyglass, making detailed notes with complete seriousness about defender response times, arrow accuracy, their apparent tactical doctrine. The soldier reaches the bottom, is carried to the infirmary. Days later, we learn infection and blood loss killed him. Herbert notes this too: wounds from the stairs have high mortality rates even with medical attention.
+
+5. **The Discussions Begin** - Officers gather after the death. Sir Edmund argues: the soldier died from arrows. Perhaps we need cover? The Master-at-Arms suggests: a mobile shield, carried by men as they ascend. Herbert authorizes construction. Thomas designs a large wooden mantlet—thick oak planks, eight feet tall. Officers debate whether it's strong enough. Thomas assures them it will stop arrows. They proceed.
+
+6. **First Mantlet - Crushed** - Four men carry the heavy mantlet up the stairs. At 75 feet, defenders drop large stones from directly above. The stones don't penetrate—they crush. The entire structure and the men beneath are smashed. Two men die instantly. The survivors scramble down. Officers reconvene: we need a design that handles stones dropped from above. Thomas proposes a peaked roof—stones will deflect off the angle rather than punching through. Herbert authorizes construction.
+
+7. **Second Mantlet - Burned** - The peaked design works initially—stones deflect off the angled roof. But at 120 feet up, defenders pour boiling water down. The peaked design channels the liquid directly onto the men below. Then burning pitch. Then torches. The entire structure ignites. Men abandon it, fleeing down. Two are badly burned, one dies. Officers reconvene again: the peaked design deflects stones but channels liquids. Perhaps make the surface slick so liquids run off? They try coating the third mantlet with oil and tallow. This makes it slippery for liquids but incredibly flammable. One torch and it's a complete inferno. Three more die. Officers are exhausted, demoralized.
+
+8. **The Stone Gallery Confrontation** - Herbert, undeterred by the mantlet failures, proposes building a covered stone passageway up the entire cliff—a year-long project costing a fortune. Officers rebel openly: this is insane, impossible, we don't have time or resources, the King won't authorize this expense. Herbert reveals his vast personal wealth and produces the King's written authorization granting him unlimited latitude for unconventional methods. They're trapped serving a methodical, serious man with unlimited resources who treats warfare as a mathematical problem.
+
+9. **The Trebuchet Decision** - Officers push for abandoning the stair approach entirely—every test has failed catastrophically. Herbert listens, then announces: we'll build fifty trebuchets. Officers are stunned: fifty? That's unprecedented, excessive, what's the purpose? Herbert doesn't explain his reasoning, just states firmly: this is what I want. We'll build fifty. Not because data led here—simply because this is his decision. He'll personally finance it from his fortune. Officers realize this isn't negotiable. Herbert goes back to his tent to rest and plan while Thomas begins organizing the construction.
+
+10. **The Eighteen Weeks** - Extended montage of massive construction. Herbert personally funding hundreds of carpenters hired from across Europe at triple wages. He emerges from his tent periodically to check progress, ask about production rates and constraints, then returns to his tent to rest while others execute. The siege camp transforms into an industrial operation. Officers evolve from resistance to grudging investment—his organizational genius and personal wealth make the impossible happen. The fifty completed trebuchets arrayed before the castle are genuinely awe-inspiring. Herbert observes the completed work with serious satisfaction—a problem solved through resources and method.
+
+**ACT TWO: THE FEEDING STRATEGY**
+
+11. **The Delicacy Discussion** - Herbert announces the next phase: launch food into the castle. Officers are baffled—why? Herbert doesn't answer directly but asks detailed questions: What are traditional Welsh delicacies? What specific foods would be meaningful to Welsh defenders? He wants the best Welsh cooks available and authentic ingredients. Officers think this is bizarre psychological warfare. Herbert returns to his tent while sending officers out to find cooks, source ingredients, organize the operation. He delegates completely, stays in his tent resting and planning while others execute the food preparation operation over several days.
+
+12. **Testing the Food Delivery** - Before sending food to defenders, they test whether the delivery system works. They launch food in wicker baskets to see if it survives impact. Then Herbert orders a test: put food in a basket and send it to a camp dog to see if the animal will eat food that's been launched and landed. The dog eats enthusiastically. This proves defenders might trust food delivered this way. Officers are impressed by the methodical testing but still don't understand the larger strategy.
+
+13. **Launching Delicacies** - Herbert begins catapulting carefully prepared Welsh delicacies into the castle. Fresh cawl, roasted lamb, aged cheese, laverbread, honey cakes—all carefully packed in wicker baskets designed to survive impact. Officers are baffled, soldiers mock it. Herbert observes defender reactions from his command position with serious attention. Weeks of this elaborate feeding program. The mood is almost comedic in its absurdity, but Herbert remains deadly serious about execution.
+
+14. **Geraint's Morning** - We shift perspective to inside the prison area where Welsh captives are held. GERAINT (mid-30s, weathered, resigned) wakes in his cell. He's been imprisoned here for months after being caught carrying messages to the castle. His routine is established: morning gruel, sitting in the yard under guard, evening meal, sleep. He hasn't seen the trebuchets—prisoners are kept away from the main siege works. Today seems like any other day. He eats his gruel, is taken to the yard to sit in the morning sun. He talks quietly with another prisoner about their families, wondering if they'll ever be released or if they'll just be hanged eventually. No indication this day is special. Then guards approach: "You. Geraint. Come with us."
+
+15. **Geraint's Confusion** - Geraint is marched through the camp. He sees the massive trebuchets for the first time—confused, awed by their scale. What are these? He's brought to Herbert's command area where Thomas and soldiers are preparing a wooden board with padding and straps. Geraint still doesn't understand. Herbert approaches, explains calmly: Geraint will be launched from a trebuchet toward the castle. This is happening today, now. Geraint's world shatters—he went from routine morning to imminent death in minutes. He begins pleading, then raging, then breaking down. Herbert gives him time to process, doesn't rush. Officers prepare the board.
+
+16. **The Interview** - Herbert sits with Geraint before the launch. Not cold, not clinical—genuinely empathetic and objective. He explains: I'm trying to understand what you're experiencing right now. I know this is terrifying. I'm not asking to be cruel—I genuinely want to understand human psychology in extremis. Herbert's questions are thoughtful, respectful even: What are you feeling physically? How does the fear manifest in your body? When you think about your daughters, does that increase or decrease the fear? If you were a stoic philosopher, how might you reframe this? Geraint answers through tears, sometimes coherently, sometimes not. Herbert listens carefully, takes notes, treats Geraint's responses with respect. It's clear Herbert genuinely cares about understanding, even while proceeding with something terrible. When Geraint begs to understand why this is happening, Herbert explains honestly: "It's just business. This is war. I need this information to move forward. Please don't take it personal—I respect you as a person."
+
+17. **The Launch and Response** - Herbert gives the order. Geraint launches, crashes into Harlech's courtyard and dies. Herbert observes trajectory with serious attention, making notes about arc, timing, impact. Officers are shaken. Herbert addresses their reaction directly, seriously: "This is war. I understand your response. But we needed this data to move forward. Geraint's death serves a purpose in solving the larger problem." His calm acknowledgment of their horror while proceeding methodically is somehow more unsettling than callousness would be.
+
+**ACT THREE: DEVELOPMENT**  
+
+18. **The Parachute Concept** - Herbert introduces his actual plan: aerial assault using fabric canopies to slow descent. Officers think he's mad—this has never been done in history. Herbert explains the physics with serious precision, shows calculations. Officers refuse outright: this is suicide for the men, impossible, insane. Herbert proposes: let's prove the concept first with small-scale testing before discussing production.
+
+19. **Proof of Concept** - They begin testing with weighted sacks dropped from increasingly high towers and scaffolding. Many failures—fabric tears, designs don't deploy properly, sacks hit too hard. But gradually they refine the design. Herbert introduces the guiding parachute concept: a small chute deploys first, pulling the main canopy out—solving deployment elegantly. After weeks of testing, they achieve consistent success: weighted sacks descend safely from 30-meter heights. The concept is proven.
+
+20. **Royal Authority and Mass Production** - Now Herbert announces the next phase: mass production. We'll build thousands of parachutes. Officers are shocked: thousands? We just proved the concept works—why so many before testing with actual people? Herbert explains: we need scale to accomplish the mission. Officers refuse: this is too fast, too expensive, we need more testing first. Herbert produces explicit written authorization from the King. He offers triple salaries. Officers still resist—this is insane even with unlimited funding. Herbert asks calmly: are you refusing a direct order? We can clarify the legal situation if needed. Officers realize they're trapped—obey or face charges. Grudgingly, they submit. Herbert authorizes maximum production for six months using his personal fortune.
+
+21. **The Safety Standard Established** - Officers demand assurance before asking soldiers to risk actual human testing. Herbert proposes: we'll make the system safe enough that you officers would be willing to use it yourselves. Officers ask: does that mean you'll trust it enough to use it too? Herbert says yes, seriously. If the system reaches the point where I would feel safe using it, then it's ready. This becomes the agreed safety benchmark. Officers are somewhat reassured—at least their commander will share the risk eventually.
+
+22. **Human Testing Begins** - With the concept proven through weighted sacks, they move directly to human volunteers. No intermediate animal testing for parachutes—from sacks to people. Volunteers are paid handsomely and fully understand the risks. The first volunteer successfully descends from a 20-meter tower. The camp erupts in celebration. More tests follow at increasing heights. Some succeed, some fail catastrophically. Men die when parachutes tangle or harnesses fail. Herbert observes each death seriously, identifying fixes. Officers grow increasingly damaged but the innovation is undeniably progressing.
+
+23. **The Successful Trebuchet Test** - The major breakthrough: a human volunteer successfully launches from a trebuchet and lands safely. The violent acceleration, the tumbling, the parachute deployment—all work. The impossible made real. The camp celebrates genuinely. Herbert observes with serious satisfaction. His officers allow themselves real hope—this revolutionary technology might actually work.
+
+24. **Overproduction** - As the six months progress, Herbert's order to "maximize production" combined with miscommunication among the massive carpentry operation results in overproduction. They end up with over 12,000 parachutes. Thomas reports this to Herbert. Officers assume they now have plenty for the assault—thousands more than needed. Herbert surprises them: we'll sell the excess. Officers are shocked—sell our secret military technology? Herbert is firm: we need optimal resources, not excessive ones. Officers argue it's difficult to find buyers, will delay everything. Herbert authorizes them to try different sales approaches but insists on selling down to exactly 4,500 parachutes—that number provides appropriate safety margins.
+
+25. **The Sales Campaign** - Months pass selling parachutes to foreign powers, other military commanders, anyone curious. It's difficult—most think Herbert is mad. Progress is slow. Officers grow increasingly frustrated: why sell instead of fight? Winter approaches. Men's morale drops—they trained for an assault that keeps delaying. Herbert remains serious and focused: we sell to 4,500, then we proceed. The selling finally completes after additional months, now deep into winter. They have exactly 4,500 parachutes.
+
+26. **Officer Testing** - Herbert announces it's time for officer testing—the safety standard established months ago. Over several days, each senior officer makes a trebuchet launch. Terrifying but successful. They land safely, bruised but alive. The system works. Officers are simultaneously relieved and proud. Now they prepare for Herbert's turn to complete the mutual trust agreement.
+
+27. **Herbert's Refusal** - Officers gather for Herbert's test. He arrives but simply refuses to proceed. Officers are confused and angry: "My lord, you promised—" Herbert corrects them seriously: examine what he actually said. He said IF he did it, he would feel safe. Not that he WOULD do it. You all just proved the system works. His participation isn't necessary from a risk assessment standpoint. Officers feel profoundly betrayed. Herbert calmly asks: are you questioning my authority? What exactly did I promise? They have no answer—technically he didn't lie, but the betrayal of spirit is complete. Officers storm out furious. Camp morale becomes dangerously low. Men feel their commander won't share the risks he demands of them.
+
+28. **The Private Motivation** - That night, Herbert lies awake. Not troubled by the officers' accusations—he's unbothered by their moral judgment. But he DOES want to experience the launch himself. He's genuinely curious about it, wants to understand what his soldiers will feel. But he doesn't want to do it publicly. Not from embarrassment or cowardice—simply because he prefers to experience it privately, on his own terms, without the officers' attention and the camp spectacle. This is how he operates—privately methodical rather than publicly performative.
+
+29. **The First Secret Attempt** - Herbert sneaks to the trebuchet area at night with a parachute pack. The Master-at-Arms, unable to sleep himself, catches him. Herbert claims he's "checking equipment." The Master-at-Arms doesn't believe him but can't prove anything. Herbert returns to his tent, frustrated that his private plan was interrupted.
+
+30. **Removing Obstacles** - Herbert becomes systematic about creating opportunity. He sends his most suspicious officers (Master-at-Arms, Sir Edmund, Sir William) on extended errands to distant towns—supply negotiations, recruitment missions—legitimate tasks that will take weeks. Once they're gone, Herbert waits patiently. Days pass. More than two full weeks. He plans meticulously, ensuring he understands every detail of the trebuchet operation so he can execute it alone.
+
+31. **The Secret Launch** - Finally, late at night with the suspicious officers still away, Herbert bribes crew members to prepare the trebuchet for "maintenance testing." He straps himself in alone, gives the signal. The experience is intense—the violent acceleration, the tumbling flight, the parachute deployment, the strange silence of controlled descent. But his trajectory takes him toward the castle—he's going to land in the defensive ditch just outside Harlech's walls. He lands hard, badly spraining his ankle. Defenders on the walls shout in alarm—someone just landed outside the castle at night. They shoot arrows into the darkness. Herbert flees limping badly, each step agony, arrows whistling past. He barely makes it back to camp, collapses into his tent.
+
+32. **The Cover-Up** - Morning: officers return from their errands to find Herbert with a severely swollen, blackened ankle, unable to walk properly. They're immediately suspicious. The trebuchet crew reports it was fired during the night. A parachute pack is missing. Officers confront Herbert directly: did you launch yourself secretly? Herbert refuses to admit it, claims seriously he twisted his ankle walking at night, tripped on tent ropes in darkness. Officers know he's lying—the evidence is overwhelming—but he's their commander. Directly calling him a liar without absolute proof would be insubordination. The tension is excruciating. Officers realize: Herbert publicly refused to launch (destroying morale and trust), then did it secretly anyway (proving he wanted to but only on private terms), then refuses to admit it (preventing any restoration of trust or morale). This bizarre sequence reveals someone who operates by completely different social rules. They're trapped serving someone who technically follows rules while violating every principle those rules are meant to uphold.
+
+**ACT FOUR: THE ASSAULT**
+
+33. **The Weapons Announcement** - Herbert announces the next step while still recovering from his ankle injury: we launch all our weapons into the castle. Swords, spears, crossbows, everything. Officers are horrified: we're arming the enemy! Herbert explains seriously: we're pre-positioning equipment so our soldiers can acquire weapons immediately after landing. Officers argue passionately: the defenders will simply collect everything, we're giving them our arms. Herbert asks: are you refusing my order? Officers, remembering the legal trap from before, reluctantly comply with mounting dread. Days of preparation as their entire armory is loaded into containers with parachutes.
+
+34. **The Weapons Launch** - Over several days, wave after wave of weapons float into Harlech. Defenders watch in disbelief, then rush to collect everything. They organize the windfall—English weapons, good steel, crossbows with bolts. They're now significantly better armed than before. Herbert observes this seriously from his command position, making notes. Officers are sickened watching their weapons handed to the enemy. Weeks pass after the weapons launch. The camp sits in tense, miserable anticipation.
+
+35. **Launch Rate Assessment** - Finally, Herbert announces assault begins at dawn. He asks Thomas: with all fifty trebuchets operating continuously, how many men can we launch per hour? Thomas calculates: 150-200 per hour maintaining optimal crew rotation. Herbert nods, processing this. Officers wait for full orders. Herbert says: begin launching the first wave at dawn. I'll rest in my tent. Wake me when approximately 2,000 men have been sent over the walls. This isn't presented as a plan they all discussed and agreed to—it's Herbert's sudden directive. Officers are shocked at the scale but it's another direct order they cannot refuse.
+
+36. **First Wave Launch** - Dawn breaks. Fifty trebuchets fire simultaneously—the sound like rolling thunder. Fifty men arc into the sky. Parachutes bloom like flowers against the morning light. The image is breathtaking, almost beautiful in its technical execution. They drift toward the castle in gentle spirals, descending with the revolutionary system they spent a year developing. The impossible made real. Herbert watches with serious, contemplative focus—observing whether the system performs as designed. Then he announces calmly: I'll rest in my tent now. Continue launching waves. Wake me at approximately 2,000 deployed. He walks back to his tent while the assault begins.
+
+37. **No Weapons - The Reality Hits** - First soldiers land in the bailey. They release harnesses quickly—the landing procedure works perfectly. They look around for the weapons Herbert sent months ago. Nothing. The ground is swept completely clean. Defenders collected everything long ago, organized it, distributed it. Realization hits the landed soldiers: they're unarmed in an enemy fortress. Panic spreads through the first fifty men. They look up at the walls. Defenders appear above them, armed with English weapons—the very swords and crossbows that were meant for the assault force. No laughter from the defenders—the situation is too serious, too shocking. They raise crossbows and begin shooting down methodically at the trapped, unarmed men in the bailey below.
+
+38. **The Slaughter Begins** - Wave two launches—fifty more men—before anyone can report back. The launch system is working flawlessly. Then wave three. The trebuchets operate exactly as designed, sending 150-200 unarmed men per hour into armed enemies. We follow multiple perspectives: soldiers desperately fighting with whatever they can find—fists, rocks, broken pieces of wood. Some try using the strong silk parachute cords as strangling weapons—several men coordinating to take down one armed defender this way. It sometimes works but requires four or five unarmed men to kill one armed defender. Defenders shoot from walls with methodical, grim efficiency—no joy in this, just doing what they must. Officers watch through spyglasses in mounting horror, helpless. They can't stop the assault—Herbert gave explicit orders, and soldiers keep volunteering for waves because word hasn't spread yet about what's happening inside. The launch system works perfectly. That's the horror—the innovation succeeds exactly as designed.
+
+39. **Herbert Sleeps** - Herbert rests in his tent while the assault continues for hours. Not from callous satisfaction—just serious focus on his assigned task now complete, resting until the numerical threshold is reached. He sleeps soundly. Cut between his calm rest and the ongoing catastrophe outside. The contrast is unbearable not because Herbert is gleeful or cruel, but because he's simply... proceeding with the operational plan as designed.
+
+40. **Hours of Dying** - The assault continues through the day and into the afternoon. Thirteen hours total. Eventually sheer numbers begin to tell. Unarmed soldiers manage to kill defenders through desperate mob tactics—strangling with cords, beating with rocks, overwhelming through sheer weight of bodies. When a defender falls, his weapons are immediately seized. Slowly, painfully, the assault force becomes partially armed. But the ratio is catastrophic: six to eight unarmed men die for every armed defender killed. The bailey becomes a nightmare landscape of corpses tangled in white silk. Blood pools in the ancient stones. Men use bodies as barriers, parachutes as makeshift shields. By late afternoon, the outer bailey is theirs through pure numerical superiority, but at catastrophic cost.
+
+41. **The Wake-Up Call** - Officers enter Herbert's tent after thirteen hours. They're soaked in blood—not their own, but from carrying wounded, organizing bodies. Their faces are hollow, eyes dead. Hands shake uncontrollably. Herbert wakes, asks seriously and straightforwardly: have we sent approximately 2,000? Yes, my lord—2,043 total. Casualties? The officers report with voices that sound like they've died inside: 1,400 dead, approximately 500 wounded, many critically. The outer bailey is ours. The defenders—about thirty left alive—have retreated to the inner keep and barricaded themselves. Herbert processes this information seriously, nods. The numbers align with projected attrition rates given the approach and variables. He makes some notes. Officers stare at him, the disconnect so profound they can barely process it. The Master-at-Arms removes his badge slowly and places it on Herbert's desk. Sir Edmund and Sir William follow, doing the same. They'll finish the siege—the defenders will surrender within hours, there's nothing left to fight. But they're done serving Herbert. He watches them leave, genuinely uncertain why they're so deeply affected. He completed the mission. The problem is solved.
+
+**EPILOGUE: AFTERMATH**
+
+42. **Harlech Falls** - The surrender happens quietly, off-screen. Dafydd ap Ieuan and twenty-eight surviving defenders walk out with their lives, having negotiated safe passage. After seven years of legendary resistance, Harlech has fallen. There's no celebration, no triumph, no ceremony. Just exhausted silence and the overwhelming smell of death.
+
+43. **Walking Through Hell** - Herbert, ankle still bandaged, limps through the bailey the next morning. The visceral reality: thousands of yards of white parachute silk tangled with corpses, blood pooled and dried black in the ancient stones, the smell of death. Soldiers work in stunned silence removing bodies, organizing the dead for identification and burial. They won't look at Herbert, step away when he approaches. He examines parachutes seriously, checking how the silk held up under combat conditions, which attachment points failed, making final notes about system performance. His methodical assessment continues even here, among the corpses. The innovation worked—men descended safely, the system performed exactly as designed. The strategic approach of overwhelming numerical superiority succeeded. Problem solved.
+
+44. **The Accounting** - Days later, messengers arrive from King Edward IV. The King is deeply displeased—not with the victory itself, but with the methods, the costs, the disturbing reports from survivors. 1,400 dead for a castle with fifty defenders is a ratio that shocks even by medieval standards. The scandal is spreading. However, Herbert holds royal authorization for "unconventional methods" and technically violated no laws or orders. There will be no formal charges or prosecution. But no new commands either. No honors, no recognition beyond a terse acknowledgment that the siege ended. Herbert receives this news calmly. He's completed his military assignment. He has vast personal wealth remaining to live comfortably. This was intended as his final military position before retirement anyway—he's 55, wealthy, ready for quieter life. The King's displeasure is politically inconvenient but personally irrelevant. He did what he was commissioned to do. The castle fell.
+
+45. **Alone With His Achievement** - Herbert stands at sunset among his fifty trebuchets, looking at Harlech Castle finally taken after seven years of impossibility. His former officers have departed without farewells or future contact. Soldiers avoid him completely. Across England, 847 families are receiving notification that husbands, fathers, sons died at Harlech. He's achieved something genuinely revolutionary—invented aerial assault, solved an engineering problem everyone said was impossible, taken an impregnable fortress through systematic method, unlimited resources, and overwhelming force. And destroyed every human relationship in the process. He observes the scene with serious, quiet contemplation. Not satisfaction, not regret—just observation. He's already beginning to think about retirement, perhaps other engineering problems that might benefit from his methodical approach. He doesn't understand what he lost because he never valued human connection above problem-solving. The sun sets. He turns and walks back toward his tent, limping slightly, alone.
+
+46. **End Text** - Black screen. White text appears slowly: "The assault on Harlech Castle in January 1469 resulted in 1,400 soldiers killed and approximately 500 wounded. 847 children were orphaned. The siege, which had lasted seven years, was finally ended. The parachute technology was documented but not adopted by other military commanders due to the catastrophic casualty rates. Herbert retired to his estates and lived comfortably on his remaining fortune until his death in 1492, never commanding military forces again. He spent his final decades pursuing various engineering projects privately. Harlech Castle, virtually undamaged by the siege, stands to this day in Wales." Long silence. Fade to black.
 
 ---
 
-**EXT. SIEGE CAMP - DAY**
-
-The camp sprawls below Harlech Castle. HERBERT (late 20s, well-dressed, intense eyes) stands with his MASTER-AT-ARMS (40s, weathered) and THOMAS (30s, engineer) studying the fortress.
-
-**HERBERT**  
-Bring me a soldier. One of the Welsh levies.
-
-**MASTER-AT-ARMS**  
-My lord?
-
-**HERBERT**  
-I want to try something. Just one man.
-
-**MASTER-AT-ARMS**  
-(carefully)  
-What would you have him do, my lord?
-
-**HERBERT**  
-Take the castle.
-
-Beat. Thomas and the Master-at-Arms stare at him.
-
-**THOMAS**  
-My lord... one man cannot—
-
-**HERBERT**  
-I know. But I want to see what happens when he tries.
-
-**MASTER-AT-ARMS**  
-You want to send one man... against fifty defenders... to observe his attempt?
-
-**HERBERT**  
-(nodding, matter-of-fact)  
-Exactly. By any means necessary. Climb, swim, whatever he thinks might work. Just... try it.
-
-The Master-at-Arms and Thomas exchange troubled glances.
-
-**MASTER-AT-ARMS**  
-My lord, that's—
-
-**HERBERT**  
-(not unkindly)  
-It's an order.
-
----
-
-**EXT. SIEGE CAMP - PRISON AREA - LATER**
-
-GRUFFYDD (mid-20s, thin, desperate eyes) sits in the dirt, wrists bound. A Welsh scout caught carrying messages to the castle weeks ago. The Master-at-Arms approaches with two guards.
-
-**MASTER-AT-ARMS**  
-On your feet.
-
-Gruffydd stands, confused and frightened. They march him through camp.
-
----
-
-**EXT. HERBERT'S COMMAND TENT - CONTINUOUS**
-
-Gruffydd is brought before Herbert, who studies him like he's examining a horse.
-
-**HERBERT**  
-You're Gruffydd? The scout?
-
-**GRUFFYDD**  
-(in Welsh, through INTERPRETER)  
-Yes, my lord.
-
-**HERBERT**  
-You know the castle. You've been inside.
-
-**GRUFFYDD**  
-(wary)  
-...Yes, my lord.
-
-**HERBERT**  
-Good. I'm giving you a chance to earn your life. Take the castle.
-
-Long silence. Gruffydd stares at Herbert, not understanding.
-
-**GRUFFYDD**  
-Take... my lord, I don't understand. Take it how? With what men?
-
-**HERBERT**  
-Just you. By any means you can think of. Climb, swim, sneak in, however you think best. If you succeed, you're free. Your family receives gold.
-
-Gruffydd's face shows he understands this is death.
-
-**GRUFFYDD**  
-My lord, one man cannot—
-
-**HERBERT**  
-You're welcome to try anything. I won't tell you how. That's the point.
-
-**GRUFFYDD**  
-(voice rising, in Welsh)  
-My lord, this is murder! I have daughters! This is—
-
-**HERBERT**  
-(to interpreter)  
-Tell him if he refuses, he hangs today. If he tries, his family receives compensation regardless of outcome.
-
-The interpreter translates. Gruffydd sags.
-
-**HERBERT (CONT'D)**  
-(genuinely)  
-I really don't mind if you die. But you should do everything you can to succeed. That's the interesting part.
-
-**MASTER-AT-ARMS**  
-(quietly)  
-My lord...
-
-**HERBERT**  
-(to Gruffydd)  
-You have until sunset. Choose your approach.
-
----
-
-**EXT. BEACH BELOW HARLECH - LATE AFTERNOON**
-
-Gruffydd stands at the base of the cliff, looking up. He's chosen the sea stairs—the only approach that might give him any chance at all. Herbert, Thomas, and officers watch from a distance with spyglasses.
-
-Gruffydd looks back at them one last time. No help is coming. He crosses himself, begins climbing.
-
-**HERBERT**  
-(excited, to Thomas)  
-He chose the stairs. Smart. The cliff face would be impossible, and swimming to the water gate is too exposed.
-
-**THOMAS**  
-My lord, this is—
-
-**HERBERT**  
-Watch. I want to see how long before they notice him.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-Gruffydd climbs steadily, trying to stay close to the cliff wall. Each step is worn smooth. Wind whips at him. His hands shake.
-
-30 feet up. 50 feet.
-
-A VOICE calls down in Welsh from above.
-
-**WELSH DEFENDER (O.S.)**  
-(subtitled)  
-Go back, boy. We see you.
-
-Gruffydd stops. Looks down at the beach where Herbert watches. Looks up at the castle.
-
-He can't go back. Herbert won't let him.
-
-He keeps climbing.
-
-**WELSH DEFENDER (O.S.) (CONT'D)**  
-(subtitled)  
-Last chance!
-
-70 feet up now. Gruffydd's breathing is ragged, tears streaming down his face.
-
-THUNK. An arrow embeds itself in the stone two feet from his head.
-
----
-
-**EXT. BEACH BELOW - CONTINUOUS**
-
-Herbert leans forward, intensely focused.
-
-**HERBERT**  
-They gave him two warnings before shooting. Interesting. They could have killed him immediately.
-
-**MASTER-AT-ARMS**  
-(voice tight)  
-They're not murderers.
-
-**HERBERT**  
-(missing the implication)  
-No, it's more than that. They're conserving arrows, or perhaps trying not to antagonize us. Note that.
-
-Thomas writes reluctantly.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-Gruffydd keeps climbing. He has no choice.
-
-Another arrow. This one punches through his shoulder. He screams, staggers. Blood pours down his arm.
-
-He tries to keep going. One more step. Another.
-
-A third arrow takes him in the leg. He collapses onto the stairs.
-
-Above him, the DEFENDERS watch. One has another arrow nocked but doesn't fire.
-
----
-
-**EXT. BEACH - CONTINUOUS**
-
-Through the spyglass: Gruffydd lying on the stairs, trying to crawl.
-
-**HERBERT**  
-They're letting him retreat. Why? Mercy? Or sending a message?
-
-**MASTER-AT-ARMS**  
-(breaking)  
-Because they're not monsters. Unlike—
-
-He stops himself. Herbert looks at him, curious.
-
-**HERBERT**  
-Unlike what?
-
-**MASTER-AT-ARMS**  
-(through gritted teeth)  
-Nothing, my lord.
-
----
-
-**EXT. THE SEA STAIRS - SUNSET (TWO HOURS LATER)**
-
-Gruffydd has crawled maybe 50 feet down. Each movement is agony. He leaves a blood trail on the ancient stones.
-
-The defenders watch but don't shoot again.
-
-Herbert watches through his spyglass the entire time, occasionally making notes.
-
----
-
-**EXT. BEACH - DUSK**
-
-Gruffydd finally reaches the bottom, collapses. Soldiers rush forward.
-
-Herbert walks over, kneels beside him. Gruffydd is barely conscious, face gray from blood loss.
-
-**HERBERT**  
-Take him to the infirmary.
-
-**MASTER-AT-ARMS**  
-(bitter)  
-Your mercy is noted, my lord.
-
-**HERBERT**  
-(genuinely confused)  
-What? He tried his best. That's all I asked.
-
-Herbert stands, looks back up at the castle stairs, making notes.
-
-**HERBERT (CONT'D)**  
-The approach is viable with proper equipment. The defenders show restraint. Their fields of fire are excellent but not complete coverage. This was very useful.
-
-The soldiers carrying Gruffydd's stretcher hurry past. One meets the Master-at-Arms' eyes—disgust clear.
-
-Herbert doesn't notice. He's already thinking about the next test.
-
-**HERBERT (CONT'D)**  
-(to Thomas)  
-Tomorrow we'll try the covered mantlet approach. I have some ideas about the angle...
-
-He walks back toward camp, animated and satisfied.
-
-The Master-at-Arms watches him go, then looks at the blood trail on the stairs.
-
-**MASTER-AT-ARMS**  
-(to himself)  
-God help us.
-
-FADE OUT.
-
----
-
-END SCENE
-
-**THE MANTLET FAILURES - SCREENPLAY**
-
----
-
-**INT. HERBERT'S COMMAND TENT - DAY**
-
-Thomas spreads drawings across a table. Herbert, the Master-at-Arms, and SIR EDMUND (50s, experienced knight) study them. The mood is tense. Gruffydd died from his wounds two days ago.
-
-**THOMAS**  
-A mobile shield, essentially. Eight feet tall, four feet wide. Thick oak planks. Four men carry it up the stairs ahead of them.
-
-**HERBERT**  
-(excited)  
-It protects them from arrows while they ascend.
-
-**SIR EDMUND**  
-My lord, the weight. On those steep stairs, carrying that and climbing—
-
-**HERBERT**  
-That's why we test it. To see what happens.
-
-**MASTER-AT-ARMS**  
-And when the defenders drop stones on it?
-
-**HERBERT**  
-(genuinely curious)  
-Will it hold? How much weight before it fails? That's what we need to find out.
-
-Beat. The officers realize he's serious.
-
-**THOMAS**  
-(carefully)  
-My lord, perhaps we start with a smaller test? Lighter weight, fewer men?
-
-**HERBERT**  
-No, we need to know if the real approach works. Full scale.
-
-He looks at their faces, sees their resistance.
-
-**HERBERT (CONT'D)**  
-(not unkindly)  
-Build it. Find volunteers.
-
----
-
-**EXT. SIEGE CAMP - CARPENTER'S AREA - MONTAGE**
-
-Thomas and carpenters construct the mantlet over three days. Herbert visits constantly, checking thickness, reinforcement. His enthusiasm contrasts with the carpenters' grim efficiency.
-
----
-
-**EXT. BEACH BELOW HARLECH - DAY**
-
-Four MEN-AT-ARMS stand with the completed mantlet. It's massive, crude but solid. They hoist it with difficulty.
-
-Herbert watches with his spyglass from a safe distance. Officers stand with him, somber.
-
-**HERBERT**  
-(to Master-at-Arms)  
-Signal them to begin.
-
-The flag drops. The four men start up the stairs, the mantlet held in front of them like a massive door.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-The men climb slowly. The mantlet is incredibly heavy. Their breathing is already labored at 30 feet.
-
-**MAN-AT-ARMS #1**  
-(straining)  
-Steady... steady...
-
-50 feet up. The stairs narrow slightly. The mantlet scrapes the cliff face on one side.
-
-Above them, DEFENDERS watch from the walls.
-
----
-
-**EXT. HARLECH CASTLE WALLS - CONTINUOUS**
-
-Three Welsh defenders peer down at the ascending mantlet. One, older, seems to be in charge—DAFYDD AP IEUAN (40s, weathered, determined).
-
-**DAFYDD**  
-(in Welsh, subtitled)  
-Stones. Don't waste arrows on wood.
-
-Defenders lift a large stone—maybe 40 pounds—and position it at the edge.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-75 feet up. The men are exhausted, trembling under the weight.
-
-**MAN-AT-ARMS #2**  
-How much farther?
-
-**MAN-AT-ARMS #1**  
-Another hundred feet. Keep—
-
-A MASSIVE STONE drops from above. It hits the top of the mantlet with a sound like thunder.
-
-The wood SPLINTERS. One plank cracks completely. The stone punches through, glances off MAN-AT-ARMS #3's shoulder. He screams, loses his grip on the mantlet.
-
----
-
-**EXT. BEACH - CONTINUOUS**
-
-Herbert leans forward, intensely focused.
-
-**HERBERT**  
-Did you see where it hit? The angle?
-
-**THOMAS**  
-My lord, the mantlet is breaking—
-
-**HERBERT**  
-Yes, but where? The structural weak point—that's important.
-
-Another stone drops. This one smashes through entirely, hitting MAN-AT-ARMS #4 directly. He crumples.
-
-The mantlet tilts. On the steep stairs, with wounded men, the weight becomes impossible to control.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-**MAN-AT-ARMS #1**  
-(desperate)  
-HOLD IT! HOLD—
-
-The mantlet slides sideways. The edge of the stairs is right there—open air and an 80-foot drop.
-
-MAN-AT-ARMS #3, already wounded, loses his footing. He and the mantlet tip over the edge.
-
-His scream cuts off when he hits the rocks below.
-
-MAN-AT-ARMS #4, the one struck by the stone, tumbles down the stairs unconscious, hits a landing, rolls again. His body comes to rest halfway down, twisted.
-
-The two surviving men-at-arms scramble back down, arrows chasing them.
-
----
-
-**EXT. BEACH - CONTINUOUS**
-
-Soldiers rush to recover the bodies. One dead from the fall, one from the stone impact. The survivors are being helped back, one bleeding badly.
-
-Herbert is already talking to Thomas, animated.
-
-**HERBERT**  
-The top-down force—we didn't account for that. If we reinforce the upper surface, or perhaps a peaked design? Like a roof? The stones would deflect rather than punch through.
-
-**SIR EDMUND**  
-(voice shaking)  
-Two men are dead, my lord.
-
-**HERBERT**  
-(turning to him)  
-Yes. But now we know the weakness. That's valuable.
-
-**SIR EDMUND**  
-Valuable? Two men—
-
-**HERBERT**  
-Would have died for nothing if we don't learn from it. This tells us exactly what to fix.
-
-Sir Edmund stares at him, speechless.
-
-**HERBERT (CONT'D)**  
-(to Thomas)  
-How long to build the peaked version?
-
-**THOMAS**  
-(quietly)  
-...Five days, my lord.
-
-**HERBERT**  
-Excellent. Let's begin.
-
-He walks away, already sketching in his journal.
-
-The Master-at-Arms watches soldiers carry away the dead.
-
-**MASTER-AT-ARMS**  
-(to Sir Edmund)  
-He doesn't feel it. Doesn't feel anything.
-
-**SIR EDMUND**  
-I know.
-
----
-
-**INT. HERBERT'S TENT - NIGHT**
-
-Herbert works by candlelight, drawing the improved design. A peaked roof, reinforced beams. He's completely absorbed.
-
-Outside, we hear CRYING—a soldier mourning his friend who died on the stairs.
-
-Herbert doesn't notice. He makes a note, satisfied with the solution.
-
----
-
-**EXT. BEACH BELOW HARLECH - DAY (ONE WEEK LATER)**
-
-The new mantlet is ready. Peaked roof, iron bands on the ridge. Six men this time to carry the heavier structure.
-
-Herbert watches eagerly. Officers stand with him, grim.
-
-**HERBERT**  
-This should work much better.
-
-**MASTER-AT-ARMS**  
-(flat)  
-Should.
-
-The signal is given. The six men begin their ascent.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-The climb is even harder—the peaked mantlet is heavier. But they make steady progress.
-
-50 feet. 75 feet. 100 feet.
-
-Stones rain down. This time they HIT the peaked surface and deflect to either side. It's working.
-
-**MAN-AT-ARMS #5**  
-(excited despite himself)  
-It's holding!
-
-120 feet. Three-quarters of the way up.
-
-Then the defenders adapt.
-
----
-
-**EXT. HARLECH CASTLE WALLS - CONTINUOUS**
-
-Dafydd watches the mantlet ascend. He turns to his men.
-
-**DAFYDD**  
-(in Welsh, subtitled)  
-Boiling water. Down the sides.
-
----
-
-**EXT. THE SEA STAIRS - CONTINUOUS**
-
-A cascade of BOILING WATER pours down. It runs along the sloped roof of the mantlet, streams down both sides.
-
-The men underneath SCREAM. The water finds gaps in the design, drips through onto them.
-
-**MAN-AT-ARMS #6**  
-(agonized)  
-GOD! IT BURNS!
-
-One man releases his corner, clawing at his scalded face. The mantlet lurches.
-
-They try to compensate but more water comes. Then BURNING PITCH.
-
-The pitch splashes across the mantlet roof. A torch is dropped. The entire structure ignites.
-
----
-
-**EXT. BEACH - CONTINUOUS**
-
-Herbert watches the mantlet burn on the stairs. Men are abandoning it, scrambling down. Two are badly burned, one isn't moving.
-
-**HERBERT**  
-(to Thomas)  
-Interesting. The peaked design worked against stones but created channels for liquids. And we made it more flammable with the reinforcement pitch.
-
-**THOMAS**  
-(horrified)  
-My lord, they're burning—
-
-**HERBERT**  
-Yes. We need to account for fire. Perhaps wet hides instead of wood? Or...
-
-He trails off, thinking.
-
-Sir Edmund turns away, hand over his mouth.
-
----
-
-**EXT. BEACH - LATER**
-
-Soldiers tend to the burned men. One is screaming. One is silent, skin blackened.
-
-Herbert approaches the survivors.
-
-**HERBERT**  
-(to the most coherent one)  
-When the water hit—could you tell it was boiling immediately? Or was there a delay in sensation?
-
-The man stares at him, face blistered.
-
-**BURNED SOLDIER**  
-(whispered)  
-...What?
-
-**HERBERT**  
-The boiling water. I'm trying to understand the reaction time. Whether you could have—
-
-**MASTER-AT-ARMS**  
-(grabbing Herbert's arm)  
-My lord. Leave him.
-
-**HERBERT**  
-(genuinely confused)  
-I just want to understand what happened. So we can—
-
-**MASTER-AT-ARMS**  
-(very quietly, very controlled)  
-Leave. Him. Now.
-
-Herbert looks at the Master-at-Arms' face, sees something that makes him step back.
-
-**HERBERT**  
-...Of course. We can discuss it later.
-
-He walks away. The Master-at-Arms kneels beside the burned soldier.
-
-**MASTER-AT-ARMS**  
-(to the soldier)  
-Surgeon's coming. You did well.
-
-The soldier just stares at nothing.
-
----
-
-**INT. HERBERT'S COMMAND TENT - NIGHT**
-
-Herbert, Thomas, and reluctant officers discuss the failures.
-
-**HERBERT**  
-Three attempts. Stone defense fails from above. Peaked design deflects stones but channels fire. Each attempt teaches us something critical.
-
-**SIR EDMUND**  
-Six men dead, my lord. Eight more crippled from burns.
-
-**HERBERT**  
-I know. But we're close to a solution. Perhaps—
-
-**MASTER-AT-ARMS**  
-(interrupting)  
-No.
-
-Silence. Herbert looks at him, surprised.
-
-**MASTER-AT-ARMS (CONT'D)**  
-No more men up those stairs with wooden shields. It doesn't work. It will never work.
-
-**HERBERT**  
-But we're learning what—
-
-**MASTER-AT-ARMS**  
-You're learning. They're dying.
-
-**HERBERT**  
-That's how we solve problems. Trial and error. That's how—
-
-**SIR EDMUND**  
-(standing)  
-My lord. We need a different approach. The sea stairs are a death trap.
-
-**HERBERT**  
-(frustrated)  
-Of course they are! That's why I'm trying to solve it! If we just give up after a few failures—
-
-**MASTER-AT-ARMS**  
-A few FAILURES? My lord, fourteen men are dead testing YOUR curiosity!
-
-**HERBERT**  
-(genuinely not understanding)  
-But that's what soldiers do. They risk their lives for the mission. How is this different?
-
-The officers stare at him.
-
-**THOMAS**  
-(quietly)  
-Because there is no mission, my lord. We're not trying to take the castle this way. We're just... testing. For your curiosity.
-
-Long silence. Herbert looks around at their faces.
-
-**HERBERT**  
-You think I'm wasting their lives.
-
-**SIR EDMUND**  
-(carefully)  
-We think... perhaps we should try a different approach entirely.
-
-Herbert thinks about this. Then nods slowly.
-
-**HERBERT**  
-You're right. The mantlet approach has diminishing returns. We've learned what we can from it.
-
-The officers relax slightly, relieved.
-
-**HERBERT (CONT'D)**  
-I have a better idea anyway. Something bigger.
-
-He spreads a new drawing on the table. The officers lean in, then freeze.
-
-Fifty trebuchets.
-
-**HERBERT (CONT'D)**  
-We'll need to start construction immediately.
-
-The officers look at each other, trapped.
-
-FADE TO BLACK.
-
----
-
-END SCENE
+END
